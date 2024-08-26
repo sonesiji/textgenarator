@@ -1,2 +1,4 @@
 streamlit==1.17.0
 google-generativeai==0.7.2
+google-api-python-client==2.142.0
+google-auth==2.34.0
